@@ -1,0 +1,8 @@
+[package]
+name = "TelChat"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+mvutils = "0.6.1"
+mvsync = "1.2.0"
